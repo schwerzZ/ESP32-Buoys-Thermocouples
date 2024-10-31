@@ -9,7 +9,7 @@ O objetivo é desenvolver um sistema de controle de nível de líquidos utilizan
 - 2 Termopares MAX6675
 
 ## Diagrama de Conexões
-![Diagrama de Conexões](boia.jpg)
+![Diagrama de Conexões](boia.jpeg)
 
 ## Código
 O código está no arquivo `main.cpp` e utiliza a biblioteca MAX6675 para leitura dos termopares.
